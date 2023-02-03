@@ -60,3 +60,6 @@ This focused on more explicit request routing and simplifies implementing all `H
 #### configuration files
 I am a heavy user of Linux, Python, vim, sway/i3-wm.
 My configration files are available as Debian package at [dotfiles](https://github.com/spaceone/dotfiles/).
+
+# statistics
+![spaceone GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceone&show_icons=true)
